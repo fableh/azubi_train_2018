@@ -38,6 +38,7 @@ In the upcoming screen specifiy your device:
 | Name | e.g. Raspberry_PI_01 (identical to the user id from the cokpit user 'azubi_01')|
 | Gateway | MQTT network (id = 2) |
 
+
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
 Congratulations! If the screen looks like this, u have successfully crated an Device on SAP IoT Services.
@@ -52,5 +53,6 @@ To do this click again the + button and specify a new sensor:
 | --- | --- |
 | Name | e.g. MySensor |
 | Sensor Type | CPU_SensorType |
+
 
 <img src="./img/create_sensor.PNG" alt="create device" width="60%">
