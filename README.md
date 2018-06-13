@@ -27,9 +27,11 @@ https://sycor.eu10.cp.iot.sap/iot/cockpit/#
 <img src="./img/cockpit.PNG" alt="cockpit" width="80%">
 
 Login with the provided user and password.
-And choose the "Devices" entry and finally press the + icon to create a new device:
+And choose the "Devices" entry and  press the + icon to create a new device:
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
+
+In the upcoming screen define a name eg. 'MyDevice_01' (identical to the user id from the cokpit user 'azubi_01')
 
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
