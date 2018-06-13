@@ -7,7 +7,7 @@ Optional: We create an mobile Application where we should be able to display our
 
 In Detail we split the scenario in the following parts:
 
-Excercise 1: Create the Device with SAP IoT Service
+Excercise 1: Create the Device with SAP IoT Service, connect the Raspberry PI and send you first data.
 <br><br>
 Excercise 2: Build the Digital Twin with SAP Application Enablement
 <br><br>
@@ -17,3 +17,9 @@ Excercise 4: Configure SAP Mobile Cards to display the Measurements on your Mobi
 <br><br>
 
 <img src="./scenario.PNG" alt="scenario" width="80%">
+
+### Excercise 1.1 - Create the Device via SAP IoT Service
+
+Open the SAP IoT Service cockpit by opening the following URL: 
+
+https://sycor.eu10.cp.iot.sap/iot/cockpit/#
