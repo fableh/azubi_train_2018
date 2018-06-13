@@ -2,7 +2,7 @@
 
 ## Scenario Overview
 
-In this sceanario we want to connect your device (Laptop or Raspberry PI) via [MQTT](http://mqtt.org/) with [SAP Leonardo IoT Foundation] (https://eaexplorer.hana.ondemand.com/_item.html?id=13741#!/overview), build up the "digital twin" and finally we want to create an SAP UI5 Application to display or device Information.
+In this sceanario we want to connect your device (Laptop or Raspberry PI) via [MQTT](http://mqtt.org/) with [SAP Leonardo IoT Foundation](https://help.sap.com/viewer/product/SAP_CP_IOT_CF/Cloud/en-US), build up the "digital twin" and finally we want to create an SAP UI5 Application to display or device Information.
 Optional: We create an mobile Application where we should be able to display our Device measeurements with SAP Mobile Cards
 
 In Detail we split the scenario in the following parts:
