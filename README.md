@@ -11,13 +11,13 @@ Excercise 1: Create the Device with SAP IoT Service, connect the Raspberry PI an
 <br>Start here with [Exercise1](./exercise1/README.md)
 <br><br>
 Excercise 2: Build the Digital Twin with SAP Application Enablement
-<br>Start here with [Exercise1](./exercise1/README.md)
+<br>Start here with [Exercise2](./exercise2/README.md)
 <br><br>
 Excercise 3: Developing an SAP IoT SAPUI5 Application with SAP Web IDE
-<br>Start here with [Exercise1](./exercise1/README.md)
+<br>Start here with [Exercise3](./exercise3/README.md)
 <br><br>
 Excercise 4: Configure SAP Mobile Cards to display the Measurements on your Mobile Device
-<br>Start here with [Exercise1](./exercise1/README.md)
+<br>Start here with [Exercise4](./exercise4/README.md)
 <br><br>
 
 <img src="./scenario.PNG" alt="scenario" width="80%">
