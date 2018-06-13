@@ -44,8 +44,9 @@ The final last step is now, to create a new "Sensor".
 To do this click again the + button and specify a new sensor:
 
 
-| :---         |     :---:      |
-| Name   | git status     |
-| Sensor Type   | git diff       |
+| Property | Value |
+| --- | --- |
+| Name | e.g. MySensor |
+| Sensor Type | CPU_SensorType |
 
 <img src="./img/create_sensor.PNG" alt="create device" width="60%">
