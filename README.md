@@ -31,8 +31,12 @@ And choose the "Devices" entry and  press the + icon to create a new device:
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
 
-In the upcoming screen define a name eg. 'Raspberry_PI_01' (identical to the user id from the cokpit user 'azubi_01').
-Futhernore select as "Gateway" the MQTT network (id = 2) and save your changes.
+In the upcoming screen specifiy your device:
+
+| Property | Value |
+| --- | --- |
+| Name | e.g. Raspberry_PI_01 (identical to the user id from the cokpit user 'azubi_01')|
+| Gateway | MQTT network (id = 2) |
 
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
