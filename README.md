@@ -23,3 +23,9 @@ Excercise 4: Configure SAP Mobile Cards to display the Measurements on your Mobi
 Open the SAP IoT Service cockpit by opening the following URL: 
 
 https://sycor.eu10.cp.iot.sap/iot/cockpit/#
+
+<img src="./img/cockpit.PNG" alt="scenario" width="80%">
+
+Login with the provided user and password
+
+<img src="./img/create_device.PNG" alt="scenario" width="80%">
