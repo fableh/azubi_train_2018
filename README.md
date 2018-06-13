@@ -30,3 +30,7 @@ Login with the provided user and password.
 And choose the "Devices" entry and finally press the + icon to create a new device:
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
+
+<img src="./img/create_device_02.PNG" alt="create device" width="80%">
+
+<img src="./img/create_device_03.PNG" alt="create device" width="80%">
