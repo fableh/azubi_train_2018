@@ -4,4 +4,4 @@
 
 In this sceanario we want to connect your device (Laptop or Raspberry PI) with SAP Leonardo IoT Foundation.
 
-<img src="./scenario.PNG" alt="scenario" width="100%">
+<img src="./scenario.PNG" alt="scenario" width="80%">
