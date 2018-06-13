@@ -43,8 +43,8 @@ Congratulations! If the screen looks like this, u have successfully crated an De
 The final last step is now, to create a new "Sensor".
 To do this click again the + button and specify a new sensor:
 
-| --- | --- |
-| Name  | e.g. MySensor  |
+| ------------ | --- ------------|
+| Name         | e.g. MySensor   |
 | Sensor Type  | CPU_SensorType  |
 
 <img src="./img/create_sensor.PNG" alt="create device" width="60%">
