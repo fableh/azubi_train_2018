@@ -1,5 +1,5 @@
 
-### Excercise 1.1 - Create the Device via SAP IoT Service
+### Excercise 1 - Create the Device via SAP IoT Service
 
 Open the SAP IoT Service cockpit by opening the following URL: 
 
