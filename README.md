@@ -31,8 +31,20 @@ And choose the "Devices" entry and  press the + icon to create a new device:
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
 
-In the upcoming screen define a name eg. 'MyDevice_01' (identical to the user id from the cokpit user 'azubi_01')
+In the upcoming screen define a name eg. 'Raspberry_PI_01' (identical to the user id from the cokpit user 'azubi_01').
+Futhernore select as "Gateway" the MQTT network (id = 2) and save your changes.
 
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
+Congratulations! If the screen looks like this, u have successfully crated an Device on SAP IoT Services.
+
 <img src="./img/create_device_03.PNG" alt="create device" width="60%">
+
+The final last step is now, to create a new "Sensor".
+To do this click again the + button and specify a new sensor:
+
+
+| Name  | e.g. MySensor  |
+| Sensor Type  | CPU_SensorType  |
+
+<img src="./img/create_sensor.PNG" alt="create device" width="60%">
