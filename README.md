@@ -47,4 +47,7 @@ To do this click again the + button and specify a new sensor:
 | Name         | e.g. MySensor   |
 | Sensor Type  | CPU_SensorType  |
 
+|--------------|-----------------|
+|Name|Tst|
+
 <img src="./img/create_sensor.PNG" alt="create device" width="60%">
