@@ -31,6 +31,6 @@ And choose the "Devices" entry and finally press the + icon to create a new devi
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
 
-<img src="./img/create_device_02.PNG" alt="create device" width="80%">
+<img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
-<img src="./img/create_device_03.PNG" alt="create device" width="80%">
+<img src="./img/create_device_03.PNG" alt="create device" width="60%">
