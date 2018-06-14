@@ -6,6 +6,24 @@ In this little training we want to connect your device (Laptop or Raspberry PI) 
 
 Optional: You can create an mobile Application to display our IoT Device measeurements with [SAP Mobile Cards](https://www.sap.com/germany/developer/topics/mobile/content2go.html) on your mobile device (iOS or Android)
 
+**Prerequisite:**
+
+Please make sure to install the following tools on your laptop:
+
+[Putty](https://www.putty.org/)
+
+[Filezilla](https://filezilla-project.org/)
+
+[Postman](https://www.getpostman.com/)
+
+Optional - a text editor like notepad++ or my fav sublime text:
+
+[Sublime Text](https://www.sublimetext.com/)
+
+[Notepad ++](https://notepad-plus-plus.org/)
+
+
+
 In Detail we split the scenario in the following parts:
 
 Excercise 1: Create the Device with SAP IoT Service, connect the Raspberry PI and send you first data.
