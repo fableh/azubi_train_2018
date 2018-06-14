@@ -28,4 +28,8 @@ As u can see there are 2 property sets available:
 
 Please familarize with CPU "Property Set" (PS) this is pre- created and will be used for the Thing configuration.
 
-In the next step u can create now an own PS e.g. for some Basic informations, feel free 
+In the next step u can create now an own PS e.g. for some Basic informations, feel free an define your own.
+
+Based on the fact that these package is used together, it make sense also here to use an identifier.
+
+<img src="./img/new_ps.PNG" alt="creat a new property set" width="60%">
