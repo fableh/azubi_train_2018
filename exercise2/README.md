@@ -26,4 +26,6 @@ As u can see there are 2 property sets available:
 
 <img src="./img/ps.PNG" alt="package" width="60%">
 
-Please familarize with CPU "Property Set" this is pre- created and will be used for the Thing configuration.
+Please familarize with CPU "Property Set" (PS) this is pre- created and will be used for the Thing configuration.
+
+In the next step u can create now an own PS e.g. for some Basic informations, feel free 
