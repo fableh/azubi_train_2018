@@ -22,7 +22,7 @@ Optional - a text editor like notepad++ or my fav sublime text:
 
 [Notepad ++](https://notepad-plus-plus.org/)
 
-
+-----
 
 In Detail we split the scenario in the following parts:
 
