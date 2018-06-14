@@ -51,6 +51,9 @@ Save yor changes and switch over to the "Thing Modeler" by pressing the link in 
 
 <img src="./img/TM_SWITCH.PNG" alt="package" width="40%">
 
+Afterwards creat a new Thing Type:
+
+<img src="./img/THINGTYPE.PNG" alt="package" width="40%">
 
 
 
