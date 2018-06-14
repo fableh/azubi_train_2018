@@ -12,11 +12,11 @@ And choose the "Devices" entry and  press the + icon to create a new device:
 
 <img src="./img/create_device_01.PNG" alt="create device" width="80%">
 
-In the upcoming screen specifiy your device:
+In the upcoming screen specifiy your device like this:
 
 | Property | Value |
 | --- | --- |
-| Name | e.g. Raspberry_PI_01 (identical to the user id from the cokpit user 'azubi_01')|
+| Name | e.g. Raspberry_PI_01 (identical to the user id from the cokpit user e.g 'azubi_01' = 01)|
 | Gateway | MQTT network (id = 2) |
 
 
