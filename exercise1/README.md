@@ -1,6 +1,8 @@
 
 ### Excercise 1 - Create the Device via SAP IoT Service
 
+#### Create the Device 
+
 Open the SAP IoT Service cockpit by opening the following URL: 
 
 https://sycor.eu10.cp.iot.sap/iot/cockpit/#
@@ -39,6 +41,16 @@ To do this click again the + button and specify a new sensor:
 <img src="./img/create_sensor.PNG" alt="create sensor" width="60%">
 
 
-The Sensor Type "CPU_Controller" has the folowing definition:
+The Sensor Type "CPU_SensorType" has the folowing definition:
 
-<img src="./img/Sensor_Type.PNG" alt="sensor_type" width="60%">
+<img src="./img/sensor_type.PNG" alt="sensor_type" width="60%">
+
+As u cann see the Sensor Type contains two capabilities, one for the CPU usage in % and the second one can be used to send data back to our device. Because of the fact that we using MQTT we are able to communicate bi-directional with the device.
+
+
+#### Download the Device Certificate
+
+To communicate with our device on a secure way, it´s required to download the device certificate by clicking the "Generate Device" button.
+Please choose the "PEM" format:
+
+<img src="./img/device_certificate.PNG" alt="sensor_type" width="60%">
