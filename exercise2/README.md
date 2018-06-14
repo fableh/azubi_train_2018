@@ -43,4 +43,10 @@ You can finally spcefiy some fields e.g.:
 | Color | String |
 | ... | ... |
 
+Save yor changes and switch over to the "Thing Modeler" by pressing the link in the lower right corner:
+
+<img src="./img/TM_SWITCH.PNG" alt="package" width="60%">
+
+
+
 
