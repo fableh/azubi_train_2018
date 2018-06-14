@@ -7,7 +7,7 @@ Open the SAP IoT Service cockpit by opening the following URL:
 
 [SAP CP IoT Service ](https://sycor.eu10.cp.iot.sap/iot/cockpit/#)
 
-For more Details pls. chack also the official documentation, which u can find here:
+For futher informations pls. check also the official documentation, which u can find here:
 
 [SAP Help](https://help.sap.com/viewer/product/SAP_CP_IOT_CF/Cloud/en-US) 
 
