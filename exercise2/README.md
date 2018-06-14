@@ -26,6 +26,8 @@ And click on the follwing button to display the "Property Sets":
 
 <img src="./img/package02.png" alt="enter the property sets" width="60%">
 
+#### Creat a new Property Set
+
 As u can see there are 2 property sets available:
 
 <img src="./img/ps.PNG" alt="package" width="60%">
@@ -47,6 +49,8 @@ You can finally spcefiy some fields e.g.:
 | Color | String |
 | ... | ... |
 
+#### Create a new Thing Type
+
 Save yor changes and switch over to the "Thing Modeler" by pressing the link in the lower right corner:
 
 <img src="./img/TM_SWITCH.PNG" alt="package" width="40%">
@@ -55,5 +59,12 @@ Afterwards creat a new Thing Type:
 
 <img src="./img/THINGTYPE.PNG" alt="package" width="40%">
 
+By pressing the + button in the "Basic Data" section should link now yor previous created property set:
 
+<img src="./img/LINKPS.PNG" alt="package" width="40%">
 
+Futhermore link the CPU property set under "Measured Values" as result the final Thing Type looks now like this:
+
+<img src="./img/FINAL_TT.PNG" alt="package" width="40%">
+
+#### Create a new Thing
