@@ -16,11 +16,11 @@ Afterwards you can see the initial launchpad, press now the Package Manager tile
 
 Now search the "syc.azubi.train" package:
 
-<img src="./img/package01.PNG" alt="package" width="60%">
+<img src="./img/package01.png" alt="package" width="60%">
 
 And click on the follwing button to display the "Property Sets":
 
-<img src="./img/package01.PNG" alt="enter the property sets" width="60%">
+<img src="./img/package02.png" alt="enter the property sets" width="60%">
 
 As u can see there are 2 property sets available:
 
