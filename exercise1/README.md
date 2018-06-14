@@ -147,6 +147,36 @@ Afterwards you can open the "mqtt_cpu_usage.py" program:
 > nano mqtt_cpu_usage.py
 ```
 
-Scroll now a bit down and change the following values that fits to your device/sensor:
+Scroll now a bit down and change the following values that fits to your device/sensor config:
 
 <img src="./img/nano_chg_prg.PNG" alt="modify the programm" width="60%">
+
+If the changes are done, u can save it by pressing "CTRL + X" and finally type "y" to save the changes!!!
+
+#### Execute the program and verify it via the SAP IoT Service cockpit
+
+Now we are ready and can execute our program by executing the following:
+
+```
+> python mqtt_cpu_usage.py"
+```
+
+If the program works successfully u should see something like this:
+
+```
+Connected to MQTT broker with result code: 0
+on_subscribe - message_id: 1 / qos: (0,)
+15953469440
+{ "capabilityAlternateId": "047eb5587b117f8f","sensorAlternateId": "a63ac7ea98ec44ce", "measures":22.7}
+(0, 2)
+15955779584
+{ "capabilityAlternateId": "047eb5587b117f8f","sensorAlternateId": "a63ac7ea98ec44ce", "measures":9.5}
+(0, 3)
+```
+
+If u now swicth back to the "cockpit" and select your device, scroll down to the "Data Visualization" section and choose the sensor, capabilty and property u should see (hopefully) the incoming data:
+
+<img src="./img/data.PNG" alt="data visualization" width="60%">
+
+**Congratulations! you are successfuly finished the first excercise !!!**
+
