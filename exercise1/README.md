@@ -58,7 +58,7 @@ Please choose the "PEM" format:
 Store the files first on your laptop and afterwards transfer the files via FTP to the Raspberry.
 For this u can use of sn FTP Client like e.g. [Filezilla](https://filezilla-project.org/) to connect.
 
-<img src="./img/filezilla.PNG" alt="sensor_type" width="60%">
+<img src="./img/filezilla.PNG" alt="filezilla transfer data" width="60%">
 
 Important: Please note/copy the Secret this is required later one to generate the final certificates which we want to use in our little program to send our data.
 
@@ -66,6 +66,6 @@ Important: Please note/copy the Secret this is required later one to generate th
 
 To connect from your local laptop to the Raspberry PI, please download [Putty](https://www.putty.org/) (no installation required). Execute the "putty.exe" and create an new SHH connection:
 
-<img src="./img/putty_ssh.PNG" alt="sensor_type" width="60%">
+<img src="./img/putty_ssh.PNG" alt="putty create ssh connection" width="60%">
 
 
