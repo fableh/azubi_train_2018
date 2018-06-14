@@ -68,4 +68,36 @@ To connect from your local laptop to the Raspberry PI, please download [Putty](h
 
 <img src="./img/putty_ssh.PNG" alt="putty create ssh connection" width="60%">
 
+Swicth now to the directory where you have downloaded the certificate.
 
+First check the name of your "*.pem" file by typing the following command:
+```
+> ls -la
+total 8
+drwxr-xr-x@ 3 fabianlehmann  staff    96 14 Jun 08:10 .
+drwxr-xr-x  6 fabianlehmann  staff   192 14 Jun 08:10 ..
+-rw-r--r--@ 1 fabianlehmann  staff  3286 14 Jun 08:09 my-device_certificate.pem
+```
+
+In the next step create the "key" and "crt" file:
+
+```
+> openssl rsa -in my-device_certificate.pem -out credentials.key
+Enter pass phrase for my-device_certificate.pem: <enter here the previous copied secrect>
+> openssl x509 -in my-device_certificate.pem -out credentials.crt
+```
+
+Verifiy now if booth files are present:
+
+```
+> ls -la
+drwxr-xr-x@ 5 fabianlehmann  staff   160 14 Jun 08:41 .
+drwxr-xr-x  6 fabianlehmann  staff   192 14 Jun 08:10 ..
+-rw-r--r--  1 fabianlehmann  staff  1501 14 Jun 08:41 credentials.crt
+-rw-r--r--  1 fabianlehmann  staff  1675 14 Jun 08:41 credentials.key
+-rw-r--r--@ 1 fabianlehmann  staff  3286 14 Jun 08:09 my-device_certificate.pem
+```
+
+#### GIT clone
+
+The easiest way to get 
