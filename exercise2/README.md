@@ -36,4 +36,11 @@ Based on the fact that these package is used together, it make sense also here t
 
 You can finally spcefiy some fields e.g.:
 
+| Property | Type |
+| --- | --- |
+| User | String |
+| Date | Date |
+| Color | String |
+| ... | ... |
+
 <img src="./img/properties.PNG" alt="creat a new property set" width="60%">
