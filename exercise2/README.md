@@ -12,7 +12,7 @@ The offical SAP Help documentation can be found here:
 
 Enter your credentials an "Log on":
 
-<img src="./img/login.PNG" alt="login" width="60%">
+<img src="./img/login.PNG" alt="login" width="40%">
 
 Afterwards you can see the initial launchpad, press now the Package Manager tile to enter the application:
 
@@ -65,6 +65,6 @@ By pressing the + button in the "Basic Data" section should link now yor previou
 
 Futhermore link the CPU property set under "Measured Values" as result the final Thing Type looks now like this:
 
-<img src="./img/FINAL_TT.PNG" alt="package" width="40%">
+<img src="./img/FINAL_TT.PNG" alt="package" width="60%">
 
 #### Create a new Thing
