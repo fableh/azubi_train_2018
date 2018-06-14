@@ -41,4 +41,4 @@ To do this click again the + button and specify a new sensor:
 
 The Sensor Type "CPU_Controller" has the folowing definition:
 
-<img src="./img/sensor_type.PNG" alt="sensor_type" width="60%">
+<img src="./img/Sensor_Type.PNG" alt="sensor_type" width="60%">
