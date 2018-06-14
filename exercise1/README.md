@@ -135,3 +135,18 @@ drwxr-xr-x  11 fabianlehmann  staff   352 14 Jun 08:49 ..
 -rw-r--r--   1 fabianlehmann  staff  3656 14 Jun 08:49 mqtt_cpu_usage.py
 ```
 
+To modify and execute the "mqtt_cpu_usage.py" python program, please change the permission by exectung the following:
+
+```
+> chmod 777 mqtt_cpu_usage.py
+```
+
+Afterwards you can open the "mqtt_cpu_usage.py" program:
+
+```
+> nano mqtt_cpu_usage.py
+```
+
+Scroll now a bit down and change the following values that fits to your device/sensor:
+
+<img src="./img/nano_chg_prg.PNG" alt="modify the programm" width="60%">
