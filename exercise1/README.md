@@ -66,7 +66,9 @@ Important: Please note/copy the Secret this is required later one to generate th
 
 To connect from your local laptop to the Raspberry PI, please download [Putty](https://www.putty.org/) (no installation required). Execute the "putty.exe" and create an new SHH connection:
 
-<img src="./img/putty_ssh.PNG" alt="putty create ssh connection" width="60%">
+<img src="./img/putty.PNG" alt="putty create ssh connection" width="60%">
+
+<img src="./img/SSH.PNG" alt="putty create ssh connection" width="60%">
 
 Swicth now to the directory where you have downloaded the certificate.
 
