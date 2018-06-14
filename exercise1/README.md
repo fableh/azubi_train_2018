@@ -5,7 +5,7 @@
 
 Open the SAP IoT Service cockpit by opening the following URL: 
 
-https://sycor.eu10.cp.iot.sap/iot/cockpit/#
+[SAP CP IoT Service ](https://sycor.eu10.cp.iot.sap/iot/cockpit/#)
 
 <img src="./img/cockpit.PNG" alt="cockpit" width="80%">
 
