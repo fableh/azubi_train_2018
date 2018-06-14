@@ -54,3 +54,9 @@ To communicate with our device on a secure way, it´s required to download the d
 Please choose the "PEM" format:
 
 <img src="./img/device_certificate.PNG" alt="sensor_type" width="60%">
+
+Store the files first on your laptop and copy theon your device.
+
+Important: Please note/copy the Secret this is required later one to generate the final certificates which we want to use in our little program to send our data.
+
+
