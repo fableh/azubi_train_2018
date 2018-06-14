@@ -38,9 +38,9 @@ You can finally spcefiy some fields e.g.:
 
 | Property | Type |
 | --- | --- |
-| User | String |
+| Product | String |
 | Date | Date |
 | Color | String |
 | ... | ... |
 
-<img src="./img/properties.PNG" alt="creat a new property set" width="60%">
+
