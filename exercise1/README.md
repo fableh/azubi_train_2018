@@ -55,7 +55,9 @@ Please choose the "PEM" format:
 
 <img src="./img/device_certificate.PNG" alt="sensor_type" width="60%">
 
-Store the files first on your laptop and copy theon your device.
+Store the files first on your laptop and afterwards transfer the files via FTP to the Raspberry.
+For this u can use of sn FTP Client like e.g. [Filezilla](https://filezilla-project.org/) to connect.
+
 
 Important: Please note/copy the Secret this is required later one to generate the final certificates which we want to use in our little program to send our data.
 
