@@ -33,3 +33,7 @@ In the next step u can create now an own PS e.g. for some Basic informations, fe
 Based on the fact that these package is used together, it make sense also here to use an identifier.
 
 <img src="./img/new_ps.PNG" alt="creat a new property set" width="60%">
+
+You can finally spcefiy some fields e.g.:
+
+<img src="./img/properties.PNG" alt="creat a new property set" width="60%">
