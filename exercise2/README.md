@@ -65,6 +65,6 @@ By pressing the + button in the "Basic Data" section should link now yor previou
 
 Futhermore link the CPU property set under "Measured Values" as result the final Thing Type looks now like this:
 
-<img src="./img/FINAL_TT.PNG" alt="package" width="60%">
+<img src="./img/FINAL_TT.PNG" alt="package" width="80%">
 
 #### Create a new Thing
