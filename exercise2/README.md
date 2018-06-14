@@ -6,6 +6,10 @@ Please enter the SAP Cloud Platform IoT Application Enablment:
 
 [SAP CP IoT AE](https://sycor-cf-subaccount.iot-sap.cfapps.eu10.hana.ondemand.com/launchpage/index.html#Shell-home)
 
+The offical SAP Help documentation can be found here:
+
+[SAP Help](https://help.sap.com/viewer/p/SAP_IOT_APPLICATION_SERVICES)
+
 Enter your credentials an "Log on":
 
 <img src="./img/login.PNG" alt="login" width="60%">
@@ -45,7 +49,7 @@ You can finally spcefiy some fields e.g.:
 
 Save yor changes and switch over to the "Thing Modeler" by pressing the link in the lower right corner:
 
-<img src="./img/TM_SWITCH.PNG" alt="package" width="60%">
+<img src="./img/TM_SWITCH.PNG" alt="package" width="40%">
 
 
 
