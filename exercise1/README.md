@@ -24,7 +24,7 @@ In the upcoming screen specifiy your device like this:
 
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
-Congratulations! If the screen looks similiar to this, u have successfully created an IoT Device on SAP IoT Services.
+If the screen looks similiar to this, u have successfully created an IoT Device on SAP IoT Services.
 
 <img src="./img/create_device_03.PNG" alt="create device" width="60%">
 
@@ -41,7 +41,7 @@ To do this click again the + button and specify a new sensor:
 <img src="./img/create_sensor.PNG" alt="create sensor" width="60%">
 
 
-The Sensor Type "CPU_SensorType" has the folowing definition:
+The Sensor Type "CPU_SensorType" has the following definition:
 
 <img src="./img/sensor_type.PNG" alt="sensor_type" width="60%">
 
@@ -174,7 +174,9 @@ on_subscribe - message_id: 1 / qos: (0,)
 (0, 3)
 ```
 
-If u now swicth back to the "cockpit" and select your device, scroll down to the "Data Visualization" section and choose the sensor, capabilty and property u should see (hopefully) the incoming data:
+If you now swicth back to the "cockpit" and select your device, scroll down to the "Data Visualization" section and choose the sensor, capabilty and property.
+
+As result you should see (hopefully) the incoming data:
 
 <img src="./img/data.PNG" alt="data visualization" width="60%">
 
