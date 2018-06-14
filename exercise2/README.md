@@ -39,7 +39,7 @@ You can finally spcefiy some fields e.g.:
 | Property | Type |
 | --- | --- |
 | Product | String |
-| Date | Date |
+| Last Maintenance | Date |
 | Color | String |
 | ... | ... |
 
