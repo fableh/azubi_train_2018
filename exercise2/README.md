@@ -74,6 +74,8 @@ As result the final Thing Type looks now like this, which has now two linked pro
 To bind our real "IoT Device" the Raspberry PI to our newly created Thing Type we need to create an new Thing.
 This Thing is the virtual representaion ans has 1:1 relationship to our SAP IoT service type.
 
+<img src="./img/DATA_MODEL_MAPPING.PNG" alt="package" width="80%">
+
 You start the creation process for our Thing by pressing the "new Thing" button in the upper left corner.
 
 <img src="./img/CREATE_THING.PNG" alt="package" width="80%">
