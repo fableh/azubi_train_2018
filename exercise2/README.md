@@ -63,8 +63,21 @@ By pressing the + button in the "Basic Data" section should link now yor previou
 
 <img src="./img/LINKPS.PNG" alt="package" width="40%">
 
-Futhermore link the CPU property set under "Measured Values" as result the final Thing Type looks now like this:
+Futhermore link the CPU property set under "Measured Values".
+
+As result the final Thing Type looks now like this, which has now two linked property sets:
 
 <img src="./img/FINAL_TT.PNG" alt="package" width="80%">
 
 #### Create a new Thing
+
+To bind our real "IoT Device" the Raspberry PI to our newly created Thing Type we need to create an new Thing.
+This Thing is the virtual representaion ans has 1:1 relationship to our SAP IoT service type.
+
+You start the creation process for our Thing by pressing the "new Thing" button in the upper left corner.
+
+<img src="./img/CREATE_THING.PNG" alt="package" width="80%">
+
+
+
+
