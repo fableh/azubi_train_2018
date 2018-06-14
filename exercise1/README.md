@@ -100,4 +100,38 @@ drwxr-xr-x  6 fabianlehmann  staff   192 14 Jun 08:10 ..
 
 #### GIT clone
 
-The easiest way to get 
+The easiest way to get the example python programm and the global SAP IoT Service certificate is via the GIT cli.
+Please execute the following command:
+```
+> git clone https://github.com/fableh/azubi_train_2018.git
+
+> ls -la 
+total 24
+drwxr-xr-x@  6 fabianlehmann  staff   192 14 Jun 08:49 .
+drwxr-xr-x   6 fabianlehmann  staff   192 14 Jun 08:10 ..
+drwxr-xr-x  11 fabianlehmann  staff   352 14 Jun 08:49 azubi_train_2018
+-rw-r--r--   1 fabianlehmann  staff  1501 14 Jun 08:41 credentials.crt
+-rw-r--r--   1 fabianlehmann  staff  1675 14 Jun 08:41 credentials.key
+-rw-r--r--@  1 fabianlehmann  staff  3286 14 Jun 08:09 my-device_certificate.pem
+```
+In the next step please copy or move the "credentials.crt" and the "credentials.key" file into the "src" directory of your newly cloned git repository by executing the following:
+
+```
+> cp credentials.crt credentials.key azubi_train_2018/src
+```
+
+Switch now to the src directory and verify that all files are now present:
+
+```
+> cd azubi_train_2018/src
+> ls -la
+total 48
+drwxr-xr-x   7 fabianlehmann  staff   224 14 Jun 08:52 .
+drwxr-xr-x  11 fabianlehmann  staff   352 14 Jun 08:49 ..
+-rw-r--r--   1 fabianlehmann  staff     1 14 Jun 08:49 README.md
+-rw-r--r--   1 fabianlehmann  staff  1501 14 Jun 08:52 credentials.crt
+-rw-r--r--   1 fabianlehmann  staff  1675 14 Jun 08:52 credentials.key
+-rw-r--r--   1 fabianlehmann  staff  5221 14 Jun 08:49 eu10cpiotsap.crt
+-rw-r--r--   1 fabianlehmann  staff  3656 14 Jun 08:49 mqtt_cpu_usage.py
+```
+
