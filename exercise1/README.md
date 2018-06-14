@@ -22,7 +22,7 @@ In the upcoming screen specifiy your device like this:
 
 <img src="./img/create_device_02.PNG" alt="create device" width="60%">
 
-Congratulations! If the screen looks like this, u have successfully crated an Device on SAP IoT Services.
+Congratulations! If the screen looks similiar to this, u have successfully created an IoT Device on SAP IoT Services.
 
 <img src="./img/create_device_03.PNG" alt="create device" width="60%">
 
@@ -36,4 +36,9 @@ To do this click again the + button and specify a new sensor:
 | Sensor Type | CPU_SensorType |
 
 
-<img src="./img/create_sensor.PNG" alt="create device" width="60%">
+<img src="./img/create_sensor.PNG" alt="create sensor" width="60%">
+
+
+The Sensor Type "CPU_Controller" has the folowing definition:
+
+<img src="./img/sensor_type.PNG" alt="sensor_type" width="60%">
