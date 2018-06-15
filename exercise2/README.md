@@ -84,9 +84,23 @@ You start the creation process for our Thing by pressing the "new Thing" button 
 
 In the upcomming screen you can now connect your real device with the previously created Thing Type.
 
-First define the Basic Data:
+First specify the Basic Data for your Thing:
 
 <img src="./img/BASIC_DATA_THING.PNG" alt="package" width="40%">
+
+Finally bin the IoT Service Device (pls verify that u use the right Device ID):
+
+<img src="./img/SENSOR_ID.PNG" alt="package" width="40%">
+
+
+<img src="./img/DEVICE_ID.PNG" alt="package" width="40%">
+
+
+<img src="./img/MAPPING.PNG" alt="package" width="40%">
+
+
+<img src="./img/RESULT.PNG" alt="package" width="40%">
+
 
 
 
