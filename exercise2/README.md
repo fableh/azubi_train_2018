@@ -114,7 +114,16 @@ And under the measured values u are able to see now the incoming data:
 
 <img src="./img/INCOMING_DATA.PNG" alt="package" width="60%">
 
+#### Send data back to the device
 
+As in Excercise 1 introduced we are using the [MQTT](http://mqtt.org/) protocol, which allows us to send data bi-directional.
+If u now open the tree where u see the incoming data, u can also type in a value and click save.
+
+img src="./img/SEND_DATA_BACK.PNG" alt="package" width="60%">
+
+
+
+img src="./img/INCOMING_AT_DEVICE.PNG" alt="package" width="60%">
 
 
 
