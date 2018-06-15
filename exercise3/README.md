@@ -18,4 +18,18 @@ Futher Informations about SAP Web IDE and the available Controls for SAP Web IDE
 
 [SAP Help](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/Cloud/en-US/0221845d73ad403ab2852142f3179177.html)
 
-[SAP IoT Application Enablement Developer Guide(https://help.sap.com/viewer/53368b9f996c42fda75faccf5e986873/1.57.0.0/en-US)
+[SAP IoT Application Enablement Developer Guide](https://help.sap.com/viewer/53368b9f996c42fda75faccf5e986873/1.57.0.0/en-US)
+
+#### Familarize with the SAP Web IDE and ceck the Plugin
+
+After the successfully start of the SAP Web IDE, you should see an empty workspace:
+
+<img src="./img/SAP_WEB_IDE.PNG" alt="create device" width="80%">
+
+Please talke 5 minutes and familarize with the SAP Web IDE.
+Afterwards, please open the preferences by clicking on the following symbol on the left naviagtion panel and verify that the IoT Application Enablement Feature is enabled:
+
+<img src="./img/IOT_AE_FEATURE.PNG" alt="create device" width="80%">
+
+
+
