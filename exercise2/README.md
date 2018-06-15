@@ -57,8 +57,6 @@ Save yor changes and switch over to the "Thing Modeler" by pressing the link in 
 
 Afterwards creat a new Thing Type:
 
-<img src="./img/CREATE_RPI_THING.PNG" alt="package" width="40%">
-
 By pressing the + button in the "Basic Data" section should link now yor previous created property set:
 
 <img src="./img/LINKPS.PNG" alt="package" width="40%">
@@ -67,7 +65,7 @@ Futhermore link the CPU property set under "Measured Values".
 
 As result the final Thing Type looks now like this, which has now two linked property sets:
 
-<img src="./img/FINAL_TT.PNG" alt="package" width="80%">
+<img src="./img/CREATE_RPI_THING.PNG" alt="package" width="80%">
 
 #### Create a new Thing
 
