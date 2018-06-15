@@ -100,17 +100,24 @@ If u has done all steps before correct you should now see a "green" mapping:
 
 <img src="./img/MAPPING.PNG" alt="package" width="40%">
 
-If u now check the new Thing you are able to enter the basic data and und the measured values u are able to see now the incoming data:
-
-<img src="./img/INCOMING_DATA.PNG" alt="package" width="40%">
-
-#### Verify the incoming data
-
-
-
 And finally u got the unique Thing ID:
 
 <img src="./img/RESULT.PNG" alt="package" width="40%">
+
+#### Verify the incoming data
+
+If u now check the new Thing you are able to enter the basic data:
+
+<img src="./img/THING_BASIC_DATA.PNG" alt="package" width="60%">
+
+And under the measured values u are able to see now the incoming data:
+
+<img src="./img/INCOMING_DATA.PNG" alt="package" width="60%">
+
+
+
+
+
 
 
 
