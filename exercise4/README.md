@@ -3,7 +3,7 @@
 
 #### Enter the SAP Cloud Platform Cockpit
 
-SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
+[SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
 
 Enter first the SAP Cloud Platform Global Account "**SAP CP**":
 
