@@ -88,7 +88,7 @@ First specify the Basic Data for your Thing:
 
 <img src="./img/BASIC_DATA_THING.PNG" alt="package" width="40%">
 
-Finally bind the IoT Service Device (pls verify that u use the right Device ID):
+Bind the IoT Service Device (pls verify that u use the right "your" Device ID):
 
 <img src="./img/DEVICE_ID.PNG" alt="package" width="40%">
 
