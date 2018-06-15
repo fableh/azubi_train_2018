@@ -78,7 +78,16 @@ This Thing is the virtual representaion ans has 1:1 relationship to our SAP IoT 
 
 You start the creation process for our Thing by pressing the "new Thing" button in the upper left corner.
 
-<img src="./img/NEW_THING.PNG" alt="package" width="80%">
+<img src="./img/NEW_THING.PNG" alt="package" width="40%">
+
+#### Connect your Device to your Thing Type
+
+In the upcomming screen you can now connect your real device with the previously created Thing Type.
+
+First define the Basic Data:
+
+<img src="./img/BASIC_DATA_THING.PNG" alt="package" width="40%">
+
 
 
 
