@@ -1,6 +1,11 @@
 
 ### Excercise 4 - Mobilize your IoT Data with SAP Mobile Cards
 
+#### Enter the SAP Cloud Platform Cocckpit
+
+SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
+
+<img src="./SCP_Cockpit.PNG" width="80%">
 
 
 
