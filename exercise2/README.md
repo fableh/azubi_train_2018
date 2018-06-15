@@ -63,7 +63,7 @@ By pressing the + button in the "Basic Data" section should link now yor previou
 
 <img src="./img/LINKPS.PNG" alt="package" width="40%">
 
-Futhermore link the CPU property set under "Measured Values".
+Futhermore link the CPU property set under "Measured Values" and upload an image of your choice for your thing.
 
 As result the final Thing Type looks now like this, which has now two linked property sets:
 
