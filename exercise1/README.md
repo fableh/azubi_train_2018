@@ -188,4 +188,4 @@ As result you should see (hopefully) the incoming data:
 
 **Congratulations! you are successfuly finished the first excercise !!!**
 
-Start here with [Exercise2](./exercise2/README.md)
+Start here with [Exercise2](../exercise2/README.md)
