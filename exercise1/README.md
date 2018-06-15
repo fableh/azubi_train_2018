@@ -1,5 +1,5 @@
 
-### Excercise 1 - Create ans connect the Raspberry PI to SAP IoT Service and send your 1st data stream
+### Excercise 1 - Create and connect the Raspberry PI to SAP IoT Service and send your first data stream
 
 #### Create the Device 
 
