@@ -13,9 +13,29 @@ Now enter the Sub Account "**Development**":
 
 <img src="./img/SCP_COCKPIT_SUB.PNG" width="60%">
 
-You should now see a lot of different 
+You should now see a lot of different menu items, feel free to discover the different options:
+
+<img src="./img/SCP_MAIN.PNG" width="60%">
 
 
+#### Enter the SAP Mobile Services
+
+From the left menu please switch over to the "Sewrvices":
+
+<img src="./img/SCP_SERVICES.PNG" width="60%">
+
+You cann now search or easier specify the "**mobile services**" category: 
+
+<img src="./img/SCP_SERVICES_CATEGORIES.PNG" width="60%">
+
+Enter now the right tile "**Development & Operations, std**":
+
+<img src="./img/SCP_ENTER_MOBILE_TILE.PNG" width="60%">
+
+And finally "**Go to the Service**" by clicking on the link:
+
+
+<img src="./img/SCP_ENTER_MOB_SERVICE.PNG" width="60%">
 
 
 
