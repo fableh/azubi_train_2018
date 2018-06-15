@@ -78,7 +78,7 @@ This Thing is the virtual representaion ans has 1:1 relationship to our SAP IoT 
 
 You start the creation process for our Thing by pressing the "new Thing" button in the upper left corner.
 
-<img src="./img/CREATE_THING.PNG" alt="package" width="80%">
+<img src="./img/NEW_THING.PNG" alt="package" width="80%">
 
 
 
