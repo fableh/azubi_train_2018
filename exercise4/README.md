@@ -24,9 +24,10 @@ From the left menu please switch over to the "Sewrvices":
 
 <img src="./img/SCP_SERVICES.PNG" width="60%">
 
-You cann now search or easier specify the "**mobile services**" category: 
+You cann now search for the different services, scroll down or easier specify the category.
+Based on the fact that we want to develop a mobile application we can easily use the dropdown and select "**mobile services**":
 
-<img src="./img/SCP_SERVICES_CATEGORIES.PNG" width="60%">
+<img src="./img/SCP_SERVICES_CATEGORIES.PNG" width="40%">
 
 Enter now the right tile "**Development & Operations, std**":
 
