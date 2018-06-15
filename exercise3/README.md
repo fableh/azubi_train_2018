@@ -75,6 +75,26 @@ To verify your application, u can now start easiliy the application by selecting
 
 <img src="./img/IOT_AE_APP_LAUNCH.PNG" alt="create device" width="50%">
 
+**Important: Sometimes you need to allow popups from SAP Web IDE, please make sure to allow this**
+
+If u start this app again, you should now see our successfully SAPUI5 app:
+
+<img src="./img/IOT_AE_APP_MAP_01.PNG" alt="create device" width="50%">
+
+But what´s that, if u select your thing you get this popup:
+
+<img src="./img/IOT_AE_APP_MAP_02.PNG" alt="create device" width="50%">
+
+This depends on the fact that we do not has specified an location for our thing.
+
+To do this please go back to the [Thing Modeler](https://sycor-cf-subaccount.iot-sap.cfapps.eu10.hana.ondemand.com/launchpage/index.html#Thing-model&/packages/iotae.sycor.syc.azubi.train/thingtypes/)
+
+Selsct your Thing and provide the Latitude and Longtitude of your device:
+
+<img src="./img/LOCATION.PNG" alt="create device" width="50%">
+
+
+
 
 
 
