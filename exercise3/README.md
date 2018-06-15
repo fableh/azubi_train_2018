@@ -20,7 +20,7 @@ Futher Informations about SAP Web IDE and the available Controls for SAP Web IDE
 
 [SAP IoT Application Enablement Developer Guide](https://help.sap.com/viewer/53368b9f996c42fda75faccf5e986873/1.57.0.0/en-US)
 
-#### Familarize with the SAP Web IDE and ceck the Plugin
+#### Familarize with the SAP Web IDE and check the Plugin
 
 After the successfully start of the SAP Web IDE, you should see an empty workspace:
 
@@ -31,6 +31,18 @@ Afterwards, please open the preferences by clicking on the following symbol on t
 Verify that the IoT Application Enablement Feature is enabled:
 
 <img src="./img/IOT_AE_FEATURE.PNG" alt="create device" width="80%">
+
+#### Create a new Projekt
+
+After we´ve successfully checked the prerequisite we can now create an new project.
+Pleas use "*File* -> *New* -> *Project from Template*":
+
+<img src="./img/NEW_PROJ.PNG" alt="create device" width="80%">
+
+Select IoT Application:
+
+<img src="./img/IOT_APP.PNG" alt="create device" width="80%">
+
 
 
 
