@@ -1,15 +1,19 @@
 
 ### Excercise 4 - Mobilize your IoT Data with SAP Mobile Cards
 
-#### Enter the SAP Cloud Platform Cocckpit
+#### Enter the SAP Cloud Platform Cockpit
 
 SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
 
+Enter first the SAP Cloud Platform Global Account "**SAP CP**":
+
 <img src="./img/SCP_Cockpit.PNG" width="60%">
 
-Enter the SAPCP Sub Account "Development":
+Now enter the Sub Account "**Development**":
 
 <img src="./img/SCP_COCKPIT_SUB.PNG" width="60%">
+
+You should now see a lot of different 
 
 
 
