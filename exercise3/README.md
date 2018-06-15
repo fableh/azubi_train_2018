@@ -65,9 +65,9 @@ In the next screen u can see the pages which are genearted:
 
 In the upcomming screens u can maintain each page settings in detail.
 
-Finally u can finish the "Wizard", afterwards u can find the createt project in your workspace:
+Finally u can finish the "Wizard", afterwards u can find the created project in your workspace:
 
-<img src="./img/IOT_AE_PROJECT.PNG" alt="create device" width="80%">
+<img src="./img/IOT_AE_PROJECT.PNG" alt="create device" width="50%">
 
 
 
