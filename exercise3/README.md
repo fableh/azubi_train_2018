@@ -73,7 +73,7 @@ Finally u can finish the "Wizard", afterwards u can find the created project in 
 
 To verify your application, u can now start easiliy the application by selecting the corresponding folder which is here "iot" and press the "launch" button:
 
-<img src="./img/IOT_AE_APP_START.PNG" alt="create device" width="50%">
+<img src="./img/IOT_AE_APP_LAUNCH.PNG" alt="create device" width="50%">
 
 
 
