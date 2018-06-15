@@ -80,7 +80,7 @@ You start the creation process for our Thing by pressing the "new Thing" button 
 
 <img src="./img/NEW_THING.PNG" alt="package" width="40%">
 
-#### Connect your Device to your Thing Type
+#### Connect booth Worlds
 
 In the upcomming screen you can now connect your real device with the previously created Thing Type.
 
@@ -96,9 +96,17 @@ Sensor ID:
 
 <img src="./img/SENSOR_ID.PNG" alt="package" width="40%">
 
-If u has done all correct you should now see a "green" mapping:
+If u has done all steps before correct you should now see a "green" mapping:
 
 <img src="./img/MAPPING.PNG" alt="package" width="40%">
+
+If u now check the new Thing you are able to enter the basic data and und the measured values u are able to see now the incoming data:
+
+<img src="./img/INCOMING_DATA.PNG" alt="package" width="40%">
+
+#### Verify the incoming data
+
+
 
 And finally u got the unique Thing ID:
 
