@@ -127,7 +127,7 @@ Please switch back to the terminal where u are connected to the raspberry and u 
 
 Congratulations! you are successfuly finished the second excercise !!!
 
-Start here with [Exercise3](./exercise3/README.md)
+Start here with [Exercise3](../exercise3/README.md)
 
 
 
