@@ -121,11 +121,13 @@ If u now open the tree where u see the incoming data, u can also type in a value
 
 <img src="./img/SEND_DATA_BACK.PNG" alt="package" width="60%">
 
-And if u know go back to the terminal where u are connected to the raspberry u can see the data is there:
+Please switch back to the terminal where u are connected to the raspberry and u can see the data is there:
 
 <img src="./img/INCOMING_AT_DEVICE.PNG" alt="package" width="60%">
 
+Congratulations! you are successfuly finished the second excercise !!!
 
+Start here with [Exercise3](./exercise3/README.md)
 
 
 
