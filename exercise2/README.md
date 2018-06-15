@@ -119,11 +119,11 @@ And under the measured values u are able to see now the incoming data:
 As in Excercise 1 introduced we are using the [MQTT](http://mqtt.org/) protocol, which allows us to send data bi-directional.
 If u now open the tree where u see the incoming data, u can also type in a value and click save.
 
-img src="./img/SEND_DATA_BACK.PNG" alt="package" width="60%">
+<img src="./img/SEND_DATA_BACK.PNG" alt="package" width="60%">
 
+And if u know go back to the terminal where u are connected to the raspberry u can see the data is there:
 
-
-img src="./img/INCOMING_AT_DEVICE.PNG" alt="package" width="60%">
+<img src="./img/INCOMING_AT_DEVICE.PNG" alt="package" width="60%">
 
 
 
