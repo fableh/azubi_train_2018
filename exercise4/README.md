@@ -5,7 +5,7 @@
 
 SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
 
-<img src="./SCP_Cockpit.PNG" width="80%">
+<img src="./img/SCP_Cockpit.PNG" width="80%">
 
 
 
