@@ -164,7 +164,7 @@ If the changes are done, u can save it by pressing "CTRL + X" and finally type "
 Now we are ready and can execute our program by executing the following:
 
 ```
-> python mqtt_cpu_usage.py"
+> python3 mqtt_cpu_usage.py"
 ```
 
 If the program works successfully u should see something like this:
