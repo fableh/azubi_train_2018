@@ -57,6 +57,8 @@ Save yor changes and switch over to the "Thing Modeler" by pressing the link in 
 
 Afterwards creat a new Thing Type:
 
+<img src="./img/CREATE_NEW_TT.PNG" alt="package" width="40%">
+
 By pressing the + button in the "Basic Data" section should link now yor previous created property set:
 
 <img src="./img/LINKPS.PNG" alt="package" width="40%">
