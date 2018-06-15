@@ -88,16 +88,19 @@ First specify the Basic Data for your Thing:
 
 <img src="./img/BASIC_DATA_THING.PNG" alt="package" width="40%">
 
-Finally bin the IoT Service Device (pls verify that u use the right Device ID):
-
-<img src="./img/SENSOR_ID.PNG" alt="package" width="40%">
-
+Finally bind the IoT Service Device (pls verify that u use the right Device ID):
 
 <img src="./img/DEVICE_ID.PNG" alt="package" width="40%">
 
+Sensor ID:
+
+<img src="./img/SENSOR_ID.PNG" alt="package" width="40%">
+
+If u has done all correct you should now see a "green" mapping:
 
 <img src="./img/MAPPING.PNG" alt="package" width="40%">
 
+And finally u got the unique Thing ID:
 
 <img src="./img/RESULT.PNG" alt="package" width="40%">
 
