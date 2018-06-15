@@ -45,21 +45,21 @@ Select IoT Application:
 
 Provide now the "Basic Infomation":
 
-<img src="./img/IOT_AE_BASIC_INFO.PNG" alt="create device" width="40%">
+<img src="./img/IOT_AE_BASIC_INFO.PNG" alt="create device" width="60%">
 
 Select the following "OData" Service:
 
-<img src="./img/IOT_AE_SERVICE.PNG" alt="create device" width="80%">
+<img src="./img/IOT_AE_SERVICE.PNG" alt="create device" width="60%">
 
 Search the "Property Set":
 
-<img src="./img/IOT_AE_PS_SEARCH.PNG" alt="create device" width="80%">
+<img src="./img/IOT_AE_PS_SEARCH.PNG" alt="create device" width="60%">
 
 Select all entities and choose next:
 
-<img src="./img/IOT_AE_PS.PNG" alt="create device" width="80%">
+<img src="./img/IOT_AE_PS.PNG" alt="create device" width="60%">
 
 
 
-<img src="./img/IOT_AE_PAGES.PNG" alt="create device" width="80%">
+<img src="./img/IOT_AE_PAGES.PNG" alt="create device" width="60%">
 
