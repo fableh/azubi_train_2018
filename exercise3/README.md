@@ -55,11 +55,15 @@ Search the "Property Set":
 
 <img src="./img/IOT_AE_PS_SEARCH.PNG" alt="create device" width="60%">
 
-Select all entities and choose next:
+And all entities and choose next:
 
 <img src="./img/IOT_AE_PS.PNG" alt="create device" width="60%">
 
+In the next screen u can see the pages which are genearted:
 
+<img src="./img/IOT_AE_PAGES.PNG" alt="create device" width="80%">
 
-<img src="./img/IOT_AE_PAGES.PNG" alt="create device" width="60%">
+In the upcomming screens u can maintain each page settings.
+
+Finally u can finish the "Wizard".
 
