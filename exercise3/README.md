@@ -27,7 +27,8 @@ After the successfully start of the SAP Web IDE, you should see an empty workspa
 <img src="./img/SAP_WEB_IDE.PNG" alt="create device" width="80%">
 
 Please talke 5 minutes and familarize with the SAP Web IDE.
-Afterwards, please open the preferences by clicking on the following symbol on the left naviagtion panel and verify that the IoT Application Enablement Feature is enabled:
+Afterwards, please open the preferences by clicking on the following symbol on the left naviagtion panel.
+Verify that the IoT Application Enablement Feature is enabled:
 
 <img src="./img/IOT_AE_FEATURE.PNG" alt="create device" width="80%">
 
