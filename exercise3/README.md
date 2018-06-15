@@ -91,7 +91,26 @@ To do this please go back to the [Thing Modeler](https://sycor-cf-subaccount.iot
 
 Selsct your Thing and provide the Latitude and Longtitude of your device:
 
-<img src="./img/LOCATION.PNG" alt="create device" width="50%">
+Tip u can use "Google Maps" or iam using this tool: https://www.gps-coordinates.net/
+
+<img src="./img/LOCATION.PNG" alt="create device" width="70%">
+
+Save your changes and jump back to the application.
+
+Refresh the application and whooooot u can now find your device on the map:
+
+<img src="./img/MAP_FINAL.PNG" alt="create device" width="70%">
+
+And by selcting the marker you can switch over e.g. the "Analysis Page" to display more data:
+
+<img src="./img/DATA.PNG" alt="create device" width="70%">
+
+Congratulations! you are successfuly finished the third excercise !!!
+
+In the fina (optional) excercise we try to visualize our iot data on our mobile device.
+
+Start here with [Exercise4](../exercise4/README.md)
+
 
 
 
