@@ -5,7 +5,12 @@
 
 SAP Cloud Platform Cockpit](https://account.hana.ondemand.com/cockpit#)
 
-<img src="./img/SCP_Cockpit.PNG" width="80%">
+<img src="./img/SCP_Cockpit.PNG" width="60%">
+
+Enter the SAPCP Sub Account "Development":
+
+<img src="./img/SCP_COCKPIT_SUB.PNG" width="60%">
+
 
 
 
