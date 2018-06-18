@@ -63,7 +63,7 @@ We want to use this OData service to display our last measurement on SAP Mobile 
 
 Pleas save the response as a file with the following name iot_data.json.
 
-Open the file wit a text editor of your choice and edit the structure a bit:
+Open the file wit a text editor of your choice and edit the structure a bit an finally save it:
 
 <img src="./img/ODATA_ADJUST.PNG" width="100%">
 
@@ -102,8 +102,13 @@ And provide the following data:
 | HTML Template: | *User defined template*|
 | Query: | */measurements?$filter=id eq **'your-thing-id'** and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3*|
 
+In the next step, please uplaod the "iot_data.json" file:
 
+<img src="./img/SAMPLE_DATA.PNG" width="60%">
 
+Switch ove to the "Editor" tab and delete the content, finally provide the follwoing code snippet
+
+[HTML Template](./html-card-src.txt)
 
 https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?
 
