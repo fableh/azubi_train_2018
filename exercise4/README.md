@@ -94,7 +94,7 @@ And provide the following data:
 | Destination: | IoT Data|
 | Template Source: | Template Manager|
 | HTML Template: | User defined template|
-| Query: | Template Manager|
+| Query: | /measurements?$filter=id eq 'your-thing-id' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3|
 
 
 
