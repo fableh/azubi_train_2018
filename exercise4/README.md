@@ -117,3 +117,11 @@ Now verify in the "Data Mapping" tab that all fields are mapped correctly if not
 Finally u can specify the message which will send out if a new card is availble:
 
 <img src="./img/NOTIFICATION.PNG" width="60%">
+
+Please save your changes.
+
+#### Enter the SAP Cloud Platform Cockpit
+
+Now you can scan this tag to register your device:
+
+<img src="./img/REGISTER.PNG" width="60%">
