@@ -25,6 +25,7 @@ From the left menu please switch over to the "Services":
 <img src="./img/SCP_SERVICES.PNG" width="60%">
 
 You cann now search for the different services, scroll down or easier specify the category.
+
 Based on the fact that we want to develop a mobile application we can easily use the dropdown and select "**mobile services**":
 
 <img src="./img/SCP_SERVICES_CATEGORIES.PNG" width="40%">
