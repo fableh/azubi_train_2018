@@ -146,9 +146,8 @@ After pressing the Subscription link you should see a preview of your screen:
 
 <img src="./img/SCP_CARD_SUBCR_LOAD.png" width="40%">
 
+
 As result you should now see the "IoT Data" on your mobile device:
 
 <img src="./img/SCP_CARD_RESULT.PNG" width="40%">
-
-Pleas skip
 
