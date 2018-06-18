@@ -20,7 +20,7 @@ You should now see a lot of different menu items, feel free to discover the diff
 
 #### Start SAP Mobile Services
 
-From the left menu please switch over to the "Sewrvices":
+From the left menu please switch over to the "Services":
 
 <img src="./img/SCP_SERVICES.PNG" width="60%">
 
@@ -61,8 +61,19 @@ As result u should now see the following response adapted to your thing:
 
 We want to use this OData service to display our last 3 measurements on SAP Mobile Cards.
 
+For simplification a destination to get the data is created an can be used by the definition of your Card later.
 
+#### Create your first Mobile Card to fetch and display yous IoT Data
 
+Please install first of all 
+
+Please enter [Mobile Service for Development and Operations](https://mobile-a142e7288.dispatcher.hana.ondemand.com/)
+
+<img src="./img/MOBILE_01.PNG" width="60%">
+
+Close the upcoming Popup and select on the left hand side the "SAP Mobile Cards" entry:
+
+<img src="./img/MOBILE_02.PNG" width="60%">
 
 [SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
 
