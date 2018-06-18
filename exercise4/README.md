@@ -133,12 +133,21 @@ Click "Authorize":
 <img src="./img/SCP_CLIENT_AUTHORIZE.PNG" width="40%">
 
 In the next step you will be registered at SAP Cloud Platform Mobile Services.
-<img src="./img/SCP_REGISTER_2_SCP.PNG" width="40%">
+And can now specify an "Passcode" or skip this.
 
-U can now specify an "Passcode" or skip this.
-SCP_NO_PASSCODE.PNG
+<img src="./img/SCP_CLIENT_AUTHORIZE.PNG" width="40%">
 
-Now u can search your card and subscribe it:
+Search and subscribe now to your card:
+
+<img src="./img/SCP_CARD_SUBCR.png" width="40%">
+
+After pressing the Subscription link you should see a preview of your screen:
+
+<img src="./img/SCP_CARD_SUBCR_LOAD.png" width="40%">
+
+As result you should now see the "IoT Data" on your mobile device:
+
+
 
 Pleas skip
 
