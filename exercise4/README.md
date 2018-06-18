@@ -7,7 +7,7 @@
 
 Enter first the SAP Cloud Platform Global Account "**SAP CP**":
 
-<img src="./img/SCP_Cockpit.PNG" width="60%">
+<img src="./img/SCP_Cockpit.PNG" width="50%">
 
 Now enter the Sub Account "**Development**":
 
@@ -122,13 +122,13 @@ Please save your changes.
 
 #### Enter the SAP Cloud Platform Cockpit
 
-Now you can scan this tag to register your device:
+Now you can scan this tag to register ant authorize your device to SAP Mobile Cards:
 
-<img src="./img/DEVICE_REGISTER.PNG" width="40%">
+<img src="./img/DEVICE_REGISTER.PNG" width="30%">
 
-<img src="./img/QR_TAG.PNG" width="40%">
+<img src="./img/QR_TAG.PNG" width="30%">
 
-<img src="./img/SCP_LOGIN_MOBILE.PNG" width="40%">
+<img src="./img/SCP_LOGIN_MOBILE.PNG" width="30%">
 
 Click "Authorize":
 
