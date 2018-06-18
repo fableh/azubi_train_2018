@@ -123,6 +123,7 @@ Please save your changes.
 #### Enter the SAP Cloud Platform Cockpit
 
 Now you can scan this tag to register your device:
+
 <img src="./img/DEVICE_REGISTER.PNG" width="40%">
 
 <img src="./img/QR_TAG.PNG" width="40%">
@@ -130,12 +131,12 @@ Now you can scan this tag to register your device:
 <img src="./img/SCP_LOGIN_MOBILE.PNG" width="40%">
 
 Click "Authorize":
+
 <img src="./img/SCP_CLIENT_AUTHORIZE.PNG" width="40%">
 
 In the next step you will be registered at SAP Cloud Platform Mobile Services.
-And can now specify an "Passcode" or skip this.
 
-<img src="./img/SCP_CLIENT_AUTHORIZE.PNG" width="40%">
+And can now specify an "Passcode" or skip this.
 
 Search and subscribe now to your card:
 
