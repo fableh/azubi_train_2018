@@ -124,4 +124,4 @@ Please save your changes.
 
 Now you can scan this tag to register your device:
 
-<img src="./img/DEVICE_REGISTER.PNG" width="60%">
+<img src="./img/DEVICE_REGISTER.PNG" width="40%">
