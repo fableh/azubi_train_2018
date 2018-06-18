@@ -63,9 +63,15 @@ We want to use this OData service to display our last 3 measurements on SAP Mobi
 
 For simplification a destination to get the data is created an can be used by the definition of your Card later.
 
-#### Create your first Mobile Card to fetch and display yous IoT Data
+#### Install the SAP Mobile Cards client software on your device
 
-Please install first of all 
+[SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
+
+
+[SAP Mobile Cards Client for iOS](https://itunes.apple.com/us/app/sap-content-to-go/id1168110623?mt=8)
+
+
+#### Create your first Mobile Card to fetch and display your IoT Data
 
 Please enter [Mobile Service for Development and Operations](https://mobile-a142e7288.dispatcher.hana.ondemand.com/)
 
@@ -75,10 +81,18 @@ Close the upcoming Popup and select on the left hand side the "SAP Mobile Cards"
 
 <img src="./img/MOBILE_02.PNG" width="60%">
 
-[SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
+Create a new "Card":
+
+<img src="./img/MOBILE_03.PNG" width="60%">
+
+And provide the follwoing data:
+
+ User | Password |
+| --- | --- |
+| foo | bar|
 
 
-[SAP Mobile Cards Client for iOS](https://itunes.apple.com/us/app/sap-content-to-go/id1168110623?mt=8)
+
 
 https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?
 
