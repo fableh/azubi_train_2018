@@ -124,4 +124,22 @@ Please save your changes.
 
 Now you can scan this tag to register your device:
 
+<img src="./img/QR_TAG.PNG" width="40%">
+
 <img src="./img/DEVICE_REGISTER.PNG" width="40%">
+
+<img src="./img/SCP_LOGIN_MOBILE.PNG" width="40%">
+
+Click "Authorize":
+SCP_AUTH.PNG
+
+In the next step you will be registered at SAP Cloud Platform Mobile Services.
+SCP_REGISTER.PNG
+
+U can now specify an "Passcode" or skip this.
+SCP_NO_PASSCODE.PNG
+
+Now u can search your card and subscribe it:
+
+Pleas skip
+
