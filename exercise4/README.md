@@ -55,9 +55,13 @@ https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id 
 
 **Please Adjust the datetime value to a valid period where u sure that the data was send successfully into SAP Application Enablement.**
 
-As result u should now see the following response:
+As result u should now see the following response adapted to your thing:
 
 <img src="./img/ODAT_RESP_PRXY.PNG" width="80%">
+
+We want to use this OData service to display our last 3 measurements on SAP Mobile Cards.
+
+
 
 
 [SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
