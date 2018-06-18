@@ -59,11 +59,15 @@ As result u should now see the following response adapted to your thing:
 
 <img src="./img/ODATA.PNG" width="80%">
 
-We want to use this OData service to display our last 3 measurements on SAP Mobile Cards.
+We want to use this OData service to display our last measurement on SAP Mobile Cards.
 
-Pleas save the response a file with the following name data.json.
+Pleas save the response as a file with the following name iot_data.json.
 
-Open the file wit a text editor of your choice and edit 
+Open the file wit a text editor of your choice and edit the structure a bit:
+
+<img src="./img/ODATA_ADJUST.PNG" width="80%">
+
+
 
 #### Install the SAP Mobile Cards client software on your device
 
