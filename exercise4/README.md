@@ -53,7 +53,11 @@ The URL mus be adjusted a bit, the syntax is the follwoing:
 
 https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id eq '**your-thing-id**' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3
 
-**Please Adjust the datetime value to a valid period, were u send the data into SAP Application Enablement.
+**Please Adjust the datetime value to a valid period where u sure that the data was send successfully into SAP Application Enablement.**
+
+As result u should now see the following response:
+
+<img src="./img/ODAT_RESP_PRXY.PNG" width="60%">
 
 
 [SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
