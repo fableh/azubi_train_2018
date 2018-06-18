@@ -1,0 +1,51 @@
+<div id="mySimpleTemplate" class="myTemplate" data-type="text/x-handlebars-template">
+         <div class="header">
+             <h1>
+                 IoT Data
+             </h1>
+             <span class="name">
+                 {{ThingID}}
+             </span>
+         </div>
+         <div class="card-content">
+             <div class="all">
+                 <div class="title-content">
+                     <span class="title">
+                         Time
+                     </span>
+                     <br>
+                     <span class="content">
+                         {{time}}
+                     </span>
+                 </div>
+                 <div class="title-content">
+                     <span class="title">
+                         ThingType
+                     </span>
+                     <br>
+                     <span class="content">
+                         {{LifeCycleStatusName}}
+                     </span>
+                 </div>    
+                 <div class="title-content">
+                     <span class="title">
+                         Property
+                     </span>
+                     <br>
+                     <span class="content">
+                         {{path}}
+                     </span>
+                 </div>
+                 <div class="title-content">
+                     <span class="title">
+                         Value
+                     </span>
+                     <br>
+                     <span class="content">
+                         {{usage}}
+                     </span>
+                 </div>
+             </div>
+             <img src="SalesOrder.png" alt="" >
+          </div>
+</div>
