@@ -114,6 +114,6 @@ Now verify in the "Data Mapping" tab that all fields are mapped correctly if not
 
 <img src="./img/DATA_MAPPING.PNG" width="60%">
 
-https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?
+Finally u can specify the message which will send out if a new card is availble:
 
-$filter=id eq '**your-thing-id**' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3
+<img src="./img/NOTIFICATION.PNG" width="60%">
