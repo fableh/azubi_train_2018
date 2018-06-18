@@ -57,7 +57,7 @@ https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id 
 
 As result u should now see the following response:
 
-<img src="./img/ODAT_RESP_PRXY.PNG" width="60%">
+<img src="./img/ODAT_RESP_PRXY.PNG" width="80%">
 
 
 [SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
