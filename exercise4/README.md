@@ -65,7 +65,7 @@ Pleas save the response as a file with the following name iot_data.json.
 
 Open the file wit a text editor of your choice and edit the structure a bit:
 
-<img src="./img/ODATA_ADJUST.PNG" width="80%">
+<img src="./img/ODATA_ADJUST.PNG" width="100%">
 
 
 
