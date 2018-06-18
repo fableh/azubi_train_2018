@@ -108,7 +108,11 @@ In the next step, please uplaod the "iot_data.json" file:
 
 Switch ove to the "Editor" tab and delete the content, finally provide the follwoing code snippet
 
-[HTML Template](./html-card-src.txt)
+[HTML Template Source Code Snippet](./html-card-src.txt)
+
+Now verify in the "Data Mapping" tab that all fields are mapped correctly if not you can modify the mapping.
+
+<img src="./img/DATA_MAPPING.PNG" width="60%">
 
 https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?
 
