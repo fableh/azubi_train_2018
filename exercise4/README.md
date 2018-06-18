@@ -18,7 +18,7 @@ You should now see a lot of different menu items, feel free to discover the diff
 <img src="./img/SCP_MAIN.PNG" width="60%">
 
 
-#### Enter the SAP Mobile Services
+#### Start SAP Mobile Services
 
 From the left menu please switch over to the "Sewrvices":
 
@@ -38,6 +38,22 @@ And finally "**Go to the Service**" by clicking on the link:
 
 <img src="./img/SCP_ENTER_MOB_SERVICE.PNG" width="60%">
 
+#### Discover the "proxy" OData Service for your Thing
+
+Based on the fact, that the data access for SAP Application Enablement works only with OAuth 2.0.
+We´ve prerpared an Node JS proxy application which allows u to fetch the data with basic authentification from your thing.
+
+Please use for testing the follwoing credentials:
+
+| User | Password |
+| --- | --- |
+| foo | bar|
+
+The URL mus be adjusted a bit, the syntax is the follwoing:
+
+https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id eq '**your-thing-id**' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3
+
+**Please Adjust the datetime value to a valid period, were u send the data into SAP Application Enablement.
 
 
 [SAP Mobile Cards Client for Android](https://play.google.com/store/apps/details?id=com.sap.content2go)
