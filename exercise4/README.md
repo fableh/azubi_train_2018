@@ -85,11 +85,16 @@ Create a new "Card":
 
 <img src="./img/MOBILE_03.PNG" width="60%">
 
-And provide the follwoing data:
+And provide the following data:
 
- User | Password |
+ Description | Value |
 | --- | --- |
-| foo | bar|
+| Name: | <the name of the card, please use an unique name>|
+| Data Refresh Mode: | keep up-to-date|
+| Destination: | IoT Data|
+| Template Source: | Template Manager|
+| HTML Template: | User defined template|
+| Query: | Template Manager|
 
 
 
