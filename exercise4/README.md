@@ -51,17 +51,19 @@ Please use for testing the follwoing credentials:
 
 The URL mus be adjusted a bit, the syntax is the follwoing:
 
-https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id eq '**your-thing-id**' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3
+https://sap-proxy.cfapps.eu10.hana.ondemand.com/app.svc/measurements?$filter=id eq '**your-thing-id**' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=1
 
 **Please Adjust the datetime value to a valid period where u sure that the data was send successfully into SAP Application Enablement.**
 
 As result u should now see the following response adapted to your thing:
 
-<img src="./img/ODAT_RESP_PRXY.PNG" width="80%">
+<img src="./img/ODATA.PNG" width="80%">
 
 We want to use this OData service to display our last 3 measurements on SAP Mobile Cards.
 
-For simplification a destination to get the data is created an can be used by the definition of your Card later.
+Pleas save the response a file with the following name data.json.
+
+Open the file wit a text editor of your choice and edit 
 
 #### Install the SAP Mobile Cards client software on your device
 
