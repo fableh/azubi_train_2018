@@ -89,12 +89,12 @@ And provide the following data:
 
  Description | Value |
 | --- | --- |
-| Name: | <the name of the card, please use an unique name>|
-| Data Refresh Mode: | keep up-to-date|
-| Destination: | IoT Data|
-| Template Source: | Template Manager|
-| HTML Template: | User defined template|
-| Query: | /measurements?$filter=id eq 'your-thing-id' and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3|
+| Name: | *<the name of the card, please use an unique name>*|
+| Data Refresh Mode: | *keep up-to-date*|
+| Destination: | *IoT Data*|
+| Template Source: | *Template Manager*|
+| HTML Template: | *User defined template*|
+| Query: | */measurements?$filter=id eq **'your-thing-id'** and time ge datetime'2018-06-15T00:00:00' and time lt datetime'2018-06-16T00:00:00'&$format=json&$top=3*|
 
 
 
